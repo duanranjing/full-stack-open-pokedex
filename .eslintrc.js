@@ -45,6 +45,6 @@ module.exports = {
     ],
     "no-console": "error",
     "react/prop-types": 0,
-    "prettier/prettier": ["error", { singleQuote: false }]
+    "prettier/prettier": ["error", { singleQuote: true }],
   }
 }
