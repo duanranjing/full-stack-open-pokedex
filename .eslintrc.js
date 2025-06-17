@@ -16,7 +16,7 @@ module.exports = {
     "sourceType": "module"
   },
   "plugins": [
-    "react", "jest", "prettier"
+    "react", "jest"
   ],
   "rules": {
     "indent": [
@@ -45,6 +45,5 @@ module.exports = {
     ],
     "no-console": "error",
     "react/prop-types": 0,
-    "prettier/prettier": ["error", { singleQuote: true }],
   }
 }
